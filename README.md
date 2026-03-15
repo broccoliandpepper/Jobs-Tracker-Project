@@ -1,3 +1,13 @@
+# 📋 Jobs Tracker
+
+[![License: MIT](https://img.shields.io/github/license/broccoliandpepper/Jobs-Tracker-Project)](https://github.com/broccoliandpepper/Jobs-Tracker-Project/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/broccoliandpepper/Jobs-Tracker-Project)](https://github.com/broccoliandpepper/Jobs-Tracker-Project/commits/main)
+[![Issues](https://img.shields.io/github/issues/broccoliandpepper/Jobs-Tracker-Project)](https://github.com/broccoliandpepper/Jobs-Tracker-Project/issues)
+[![Node.js](https://img.shields.io/badge/Node.js-v25.3.0-green?logo=node.js)](https://nodejs.org)
+[![SQLite](https://img.shields.io/badge/SQLite-3-blue?logo=sqlite)](https://sqlite.org)
+[![Ollama](https://img.shields.io/badge/Ollama-AI-purple?logo=ollama)](https://ollama.com)
+
+
 # 📋 JobTracker
 
 Application locale de tracking de candidatures d'emploi.
