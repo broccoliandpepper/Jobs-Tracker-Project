@@ -1,0 +1,31 @@
+# Dépendances
+node_modules/
+
+# Environnement — NE JAMAIS committer
+.env
+
+# Base de données SQLite — données personnelles
+jobs.db
+jobs.db-shm
+jobs.db-wal
+
+# Backups SQLite
+db-backup/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build (si applicable plus tard)
+dist/
